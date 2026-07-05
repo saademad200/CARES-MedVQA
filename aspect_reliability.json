@@ -1,0 +1,197 @@
+{
+  "reliability": {
+    "text_presence": 1.0,
+    "artefact": 0.9836,
+    "abnormalities": 0.7748,
+    "location": 0.6866,
+    "color": 0.537,
+    "procedure": 0.844,
+    "instrument_count": 0.9481,
+    "polyp_count": 0.8318,
+    "polyp_removal": 0.961,
+    "instruments": 1.0,
+    "polyps": 0.7944,
+    "polyp_type": 0.7593,
+    "anatomical_landmarks": 1.0
+  },
+  "cells": {
+    "text_presence|||yes": [
+      126,
+      126
+    ],
+    "artefact|||no": [
+      129,
+      129
+    ],
+    "abnormalities|||oesophagitis": [
+      20,
+      23
+    ],
+    "location|||center;center-left;center-right;lower-center;lower-left;lower-right;upper-center;upper-left;upper-right": [
+      11,
+      36
+    ],
+    "color|||pink;red;white": [
+      8,
+      19
+    ],
+    "abnormalities|||yes": [
+      27,
+      40
+    ],
+    "procedure|||gastroscopy": [
+      21,
+      37
+    ],
+    "instrument_count|||0": [
+      73,
+      77
+    ],
+    "polyp_count|||0": [
+      68,
+      78
+    ],
+    "location|||none": [
+      73,
+      73
+    ],
+    "polyp_removal|||not relevant": [
+      74,
+      77
+    ],
+    "instruments|||none": [
+      73,
+      73
+    ],
+    "polyps|||none": [
+      69,
+      77
+    ],
+    "polyp_type|||none": [
+      69,
+      80
+    ],
+    "anatomical_landmarks|||cecum": [
+      3,
+      3
+    ],
+    "color|||pink;red;yellow": [
+      15,
+      29
+    ],
+    "procedure|||colonoscopy": [
+      71,
+      72
+    ],
+    "abnormalities|||polyp": [
+      33,
+      34
+    ],
+    "location|||center;lower-center": [
+      2,
+      13
+    ],
+    "color|||flesh-colored;red": [
+      0,
+      2
+    ],
+    "polyp_count|||1": [
+      21,
+      29
+    ],
+    "polyp_type|||paris is": [
+      13,
+      27
+    ],
+    "polyps|||5-10mm": [
+      8,
+      11
+    ],
+    "text_presence|||no": [
+      57,
+      57
+    ],
+    "artefact|||yes": [
+      51,
+      54
+    ],
+    "color|||pink": [
+      23,
+      41
+    ],
+    "polyps|||11-20mm": [
+      4,
+      11
+    ],
+    "color|||pink;red": [
+      10,
+      13
+    ],
+    "location|||center;upper-center": [
+      1,
+      5
+    ],
+    "polyps|||>20mm": [
+      4,
+      6
+    ],
+    "color|||red": [
+      0,
+      1
+    ],
+    "abnormalities|||no": [
+      6,
+      14
+    ],
+    "color|||flesh-colored;red;yellow": [
+      0,
+      1
+    ],
+    "location|||center": [
+      3,
+      4
+    ],
+    "polyps|||< 5mm": [
+      0,
+      2
+    ],
+    "polyp_type|||paris ip": [
+      0,
+      1
+    ],
+    "color|||red;white": [
+      1,
+      1
+    ],
+    "color|||yellow": [
+      1,
+      1
+    ],
+    "location|||center;upper-center;upper-left": [
+      0,
+      1
+    ],
+    "location|||center-left;upper-left": [
+      1,
+      1
+    ],
+    "instruments|||polyp snare": [
+      3,
+      3
+    ],
+    "location|||lower-right": [
+      1,
+      1
+    ],
+    "instruments|||biopsy forceps": [
+      1,
+      1
+    ]
+  },
+  "_global": 0.8483,
+  "_alpha": 5.0,
+  "_floor": 0.8,
+  "_abstain": 0.5,
+  "_n": 1384,
+  "_source": "submission_task2.jsonl"
+}

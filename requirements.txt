@@ -1,0 +1,8 @@
+transformers>=4.38.0
+peft>=0.9.0
+torch>=2.0.0
+Pillow>=9.0.0
+tqdm
+evaluate
+nltk
+rouge_score
